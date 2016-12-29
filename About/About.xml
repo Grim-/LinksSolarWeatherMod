@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>SolarWeather</name>
+	<author>Caraise Link </author>
+	<url>https://ludeon.com/forums/index.php?topic=28748.0</url>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>
+	Creates a new Solar Power Plant Generator exactly the same as the old, but the maximum power output is affected by weather.
+	</description>
+</ModMetaData>
