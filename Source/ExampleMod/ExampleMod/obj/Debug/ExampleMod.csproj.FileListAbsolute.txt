@@ -1,3 +1,2 @@
 E:\Downloads\Games\RimWorld.Alpha.16\Mods\Links_SolarPowerPlant\Assemblies\ExampleMod.dll
 E:\Downloads\Games\RimWorld.Alpha.16\Mods\Links_SolarPowerPlant\Source\ExampleMod\ExampleMod\obj\Debug\ExampleMod.dll
-E:\Downloads\Games\RimWorld.Alpha.16\Mods\Links_SolarPowerPlant\Source\ExampleMod\ExampleMod\obj\Debug\ExampleMod.csprojResolveAssemblyReference.cache
